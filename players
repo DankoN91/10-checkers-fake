@@ -1,0 +1,23 @@
+{
+	"players": [{
+			"name": "Petar",
+			"won": 10,
+			"lost": 6
+		},
+		{
+			"name": "Lazar",
+			"won": 8,
+			"lost": 5
+		},
+		{
+			"name": "Stefan",
+			"won": 14,
+			"lost": 0
+		},
+		{
+			"name": "Milos",
+			"won": 9,
+			"lost": 12
+		}
+	]
+}
