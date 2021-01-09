@@ -23,6 +23,11 @@
 			"name": "Marko",
 			"won": 9,
 			"lost": 12
+		},
+		{
+			"name": "Jovan",
+			"won": 9,
+			"lost": 12
 		}
 	]
 }
