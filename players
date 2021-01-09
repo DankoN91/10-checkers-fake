@@ -18,6 +18,11 @@
 			"name": "Milos",
 			"won": 9,
 			"lost": 12
+		},
+		{
+			"name": "Marko",
+			"won": 9,
+			"lost": 12
 		}
 	]
 }
